@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad895eb9-f8ef-4166-8158-d1229948d4e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Libraries.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExpenseTracker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExpenseTracker.java" afterDir="false" />
+    <list default="true" id="ad895eb9-f8ef-4166-8158-d1229948d4e0" name="Changes" comment="Expense Tracker application with operations to add remove update and list expenses -first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "alsheikh0"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/alsheikh0/Expense-Tracker",
+    "accountId": "dcd0949c-5b31-4790-b527-73f0df354ecb"
+  }
+}]]></component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -50,7 +55,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.ExpenseTracker.executor": "Debug",
+    "Application.ExpenseTracker.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -98,12 +103,56 @@
       <workItem from="1731147115709" duration="3070000" />
       <workItem from="1731156008061" duration="14265000" />
       <workItem from="1731212207172" duration="2861000" />
-      <workItem from="1731215241562" duration="6160000" />
+      <workItem from="1731215241562" duration="8289000" />
     </task>
+    <task id="LOCAL-00001" summary="Expense Tracker application with operations to add remove update and list expenses -first commit">
+      <option name="closed" value="true" />
+      <created>1731303451026</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731303451026</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Expense Tracker application with operations to add remove update and list expenses -first commit">
+      <option name="closed" value="true" />
+      <created>1731303474495</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731303474495</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Expense Tracker application with operations to add remove update and list expenses -first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Expense Tracker application with operations to add remove update and list expenses -first commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
